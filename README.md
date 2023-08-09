@@ -43,9 +43,16 @@ Functions best through Insomnia.
 
 https://github.com/chlarson74/e-commerce8823
 
-## E-commerce Back End - Walk Through Videos
+E-commerce Categories - Walk Through Video
 
 
+
+E-commerce Products - Walk Through Videos
+
+
+
+
+E-commerce Tags - Walk Through Videos
 
 
 
