@@ -46,13 +46,25 @@ https://github.com/chlarson74/e-commerce8823
 E-commerce Categories - Walk Through Video
 
 
+https://github.com/chlarson74/e-commerce8823/assets/137223285/d582cbbd-bb26-4616-97e0-8630ce3e9777
+
+
+
 
 E-commerce Products - Walk Through Videos
 
 
 
+https://github.com/chlarson74/e-commerce8823/assets/137223285/6884bc38-8d48-469f-82fa-5d0e796369cc
+
+
+
 
 E-commerce Tags - Walk Through Videos
+
+
+
+https://github.com/chlarson74/e-commerce8823/assets/137223285/eace0d76-74c3-4f37-b0d5-6104af55236a
 
 
 
