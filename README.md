@@ -43,6 +43,22 @@ Functions best through Insomnia.
 
 https://github.com/chlarson74/e-commerce8823
 
+Mysql - Walk Through Video
+
+
+
+https://github.com/chlarson74/e-commerce8823/assets/137223285/27886f5f-adcc-4400-9368-ed5d7919538e
+
+
+
+Seed - Walk Through Video
+
+
+
+https://github.com/chlarson74/e-commerce8823/assets/137223285/b1f3792f-6d3d-464f-9ee0-cf33c43c4525
+
+
+
 E-commerce Categories - Walk Through Video
 
 
