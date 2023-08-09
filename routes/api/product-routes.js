@@ -130,7 +130,7 @@ router.delete('/:id', async (req, res) => { //check on the async - I added that 
       return;
     }
 
-    res.status(200).json(err);
+    res.status(200).json(productData);
   } catch (err) {
     console.log(err);
     res.status(500).json(err);
