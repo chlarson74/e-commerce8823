@@ -6,30 +6,17 @@ class Category extends Model {}
 
 Category.init(
   {
-    // define columns
-    // book_id: {
-    //   type: DataTypes.INTEGER,
-    //   primaryKey: true,
-    //   autoIncrement: true
-    // },
-    // title: {
-    //   type: DataTypes.STRING
-    // },
-    // author: {
-    //   type: DataTypes.STRING
-    // },
-    // isbn: {
-    //   type: DataTypes.STRING
-    // },
-    // pages: {
-    //   type: DataTypes.INTEGER
-    // },
-    // edition: {
-    //   type: DataTypes.INTEGER
-    // },
-    // is_paperback: {
-    //   type: DataTypes.BOOLEAN
-    // }
+      // define columns // refer to activities 23-Ins_One-to-Many
+    id: {
+      type: DataTypes.INTEGER,
+      allowNull: false,
+      primaryKey: true,
+      autoIncrement: true,
+    },  
+    category_name: {
+      type: DataTypes.STRING,
+      allowNull: false,
+    },
   },
   {
     sequelize,
